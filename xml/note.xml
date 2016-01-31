@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<note>
+<email>
+<to>George</to>
+<from>John</from>
+<heading>Reminder</heading>
+<body>Don't forget the meeting!</body>
+<lastname>Simth</lastname>
+</email>
+
+
+<email2>
+<to>George1</to>
+<from>John1</from>
+<heading>Reminder1</heading>
+<body>Don't forget the meeting!1</body>
+<lastname>Simth1</lastname>
+</email2>
+
+</note>
